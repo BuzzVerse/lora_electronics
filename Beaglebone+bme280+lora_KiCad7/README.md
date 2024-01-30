@@ -1,5 +1,7 @@
 wersja pierwsza - 30.01.2024
 
+w zipie Gotowa_Plytka.zip znajdują się pliki potrzebne do zamówienia płytki
+
 Schemat płytki:
 ![Zrzut ekranu 2024-01-30 181412](https://github.com/BuzzVerse/lora_hardware/assets/69093918/b79e160b-2b12-4e02-b36a-1347ab215bba)
 
