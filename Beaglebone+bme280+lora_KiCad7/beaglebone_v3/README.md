@@ -7,10 +7,10 @@ Schemat płytki:
 ![beaglebone_schemat2](https://github.com/BuzzVerse/lora_hardware/assets/69093918/494a26e1-cc32-4bdd-bc95-e95db8f65afa)
 
 Footprint płytki:
-![beaglebone_footprint](https://github.com/BuzzVerse/lora_hardware/assets/69093918/19ebd8df-052d-42ff-959c-594a16b676a8)
+![beaglebone_footprint](https://github.com/BuzzVerse/lora_hardware/assets/69093918/c77933c3-5eb3-4616-a8d5-d91953681809)
 
 Przód płytki:
-![beaglebone_front3d](https://github.com/BuzzVerse/lora_hardware/assets/69093918/d0990145-916e-4b33-b233-951db67b010f)
+![beaglebone_front3d](https://github.com/BuzzVerse/lora_hardware/assets/69093918/b754db00-aa48-4603-a661-6f62d774f5eb)
 
 Tył płytki:
-![beaglebone_back3d](https://github.com/BuzzVerse/lora_hardware/assets/69093918/5a286c6f-5775-4a07-ac71-921e38194bcf)
+![beaglebone_back3d](https://github.com/BuzzVerse/lora_hardware/assets/69093918/d009707a-f52a-4690-8f28-5eada6b236ce)
