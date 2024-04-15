@@ -1,8 +1,8 @@
 wersja pełna pierwsza - 15.04.2024
 
 Schemat płytki:
-![beaglebone_schemat1](https://github.com/BuzzVerse/lora_hardware/assets/69093918/cc615ca6-cea7-4d1a-86b9-8a978ef3dc77)
-![beaglebone_schemat2](https://github.com/BuzzVerse/lora_hardware/assets/69093918/52146e02-9736-419a-add0-e141e9b63329)
+![beaglebone_schemat1](https://github.com/BuzzVerse/lora_hardware/assets/69093918/2c934034-4d92-4caa-944f-71095f763a3f)
+![beaglebone_schemat2](https://github.com/BuzzVerse/lora_hardware/assets/69093918/4782c084-57c0-48e9-a1eb-4e579070e6b6)
 ![beaglebone_schemat3](https://github.com/BuzzVerse/lora_hardware/assets/69093918/c8ee3918-df81-44fb-8caf-91e8a2253c2d)
 
 Footprint płytki:
