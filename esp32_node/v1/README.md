@@ -1,4 +1,4 @@
-wersja trzecia - 27.03.2024
+wersja pełna pierwsza - 15.04.2024
 
 w zipie Gotowa_Plytka.zip znajdują się pliki potrzebne do zamówienia płytki
 
