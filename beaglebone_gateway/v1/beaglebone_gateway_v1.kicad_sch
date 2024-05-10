@@ -1226,35 +1226,14 @@
     (uuid fbcf0d0c-ef73-41e1-9782-1f6c9a5bfc5e)
   )
 
-  (text "Beaglebone - gateway (Jakub Martyński - Uniwersytet Zielonogórski)"
-    (at 186.69 190.5 0)
+  (text "Beaglebone Black LoRa gateway HAT." (at 186.69 190.5 0)
     (effects (font (size 1.27 1.27) (color 9 0 241 1)) (justify left bottom))
     (uuid 091f3572-8c6e-4bcf-acf2-a79eec805cd8)
   )
-  (text "BeagleBone Black Pin Modes:\nhttps://elinux.org/Beagleboard:Cape_Expansion_Headers\n\nCape requirements are documented in the BeagleBone Black SRM:\nhttps://github.com/beagleboard/beaglebone-black/wiki/System-Reference-Manual"
-    (at 177.8 180.34 0)
+  (text "Beaglebone Black LoRa gateway HAT. Buzzverse.\n\nAuthors:\nJakub Martyński\nMaciej Wołosewicz"
+    (at 177.8 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 13cfaebb-2822-4533-b59c-64f4a8653fac)
-  )
-  (text "Podłącz piny DIO0-DIO5 do jakiś pinów na złączach.\nMamy sporo wolnych a mogą się przydać do odczytywania\ndodatkowych informacji o układzie."
-    (at -1.27 -29.21 0)
-    (effects (font (size 1.27 1.27) (color 241 174 8 1)) (justify left bottom))
-    (uuid 1c4464f5-412c-4caa-be2d-18f0dd6b957c)
-  )
-  (text "Może warto również dodać jakieś 2 przyciski\ndo nieużywanych GPIO, co nam pozwoli sterować\nprogramem jak nie będzie np. podłączony\nkomputer (to jest raczej nice to have i może\nbyć również zrobione w wersji 2)."
-    (at 60.96 -22.86 0)
-    (effects (font (size 1.27 1.27) (color 241 174 8 1)) (justify left bottom))
-    (uuid 3ea6908b-7291-4295-8202-9bae506ae90b)
-  )
-  (text "Ogólne:\n- Nie używaj symbolu omega (tak, to są ohmy ale nie używa\nsię. Widać, że to jest rezystor więc wystarczy np. 1, 1k, 1M\n- Na koniec żeby ktoś kto nie ma KiCada mógł oglądać wygodnie\nschemat - zamiast robić screenshoty - \"Wydrukuj do PDFa\" - Schemat i PCB.\n"
-    (at 121.92 -26.67 0)
-    (effects (font (size 1.27 1.27) (color 241 174 8 1)) (justify left bottom))
-    (uuid 8e56f702-8568-4965-8076-ca19007ebc05)
-  )
-  (text "Zastanów się czy nie warto dodać jakiegoś switcha\ni podłączyć PWR_BUT i SYS_RESET. Jak nałożymy tą nakładkę na\nBeaglebone to stracimy dostęp (a przynajmniej bardzo\ngo utrudnimy) do przycisków na płycie.\n\n(Nice to have i może\nbyć również zrobione w wersji 2\nbo wydaje się proste do zrobienia)."
-    (at -46.99 -7.62 0)
-    (effects (font (size 1.27 1.27) (color 241 174 8 1)) (justify left bottom))
-    (uuid 91a78d25-39a6-41e7-96ab-d14d9c92d5a9)
   )
 
   (label "GPIO45" (at 175.26 68.58 0) (fields_autoplaced)
@@ -2087,7 +2066,7 @@
     (property "Sheetname" "Devices" (at 25.4 19.6084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "beaglebone_gateway_vi_devices.kicad_sch" (at 25.4 31.0646 0)
+    (property "Sheetfile" "beaglebone_gateway_v1_devices.kicad_sch" (at 25.4 31.0646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
